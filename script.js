@@ -4,7 +4,7 @@
 
 const PRODUCT_PRICE      = 2900;
 const PRODUCT_NAME       = 'جهاز تنظيف وترطيب البشرة بالبخار - Osenjie';
-const SCRIPT_URL         = 'https://script.google.com/macros/s/AKfycbzjCae2QAVIfoNEivck3Y5TydgW9z75Vifk0njcFYWt3onw5Asq4PJbjcjqQyr4RecsDQ/exec';
+const SCRIPT_URL         = 'https://script.google.com/macros/s/AKfycbwloeb03CMOOJfJ_w0dJ7nCWQrWvkJJohN5geu2m7RUp5hzynGTXYtGiRbkLQNQ-y50GA/exec';
 const WHATSAPP_NUM       = '213553096569';
 const RESTRICTED_WILAYAS = ['52', '56', '57'];
 
